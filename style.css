@@ -1,11 +1,11 @@
 body {
-    background-image: url('images/superhero.jpg');
+    background-image: url('stadium\ bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 header {
     text-align: center;
-    background-color: #c41b1bcc;
+    background-color: #dd6c10a2;
     padding: 20px;
     color: white;
 }
